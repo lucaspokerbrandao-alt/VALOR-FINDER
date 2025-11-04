@@ -1,0 +1,5 @@
+{
+  "name": "Valor Finder",
+  "description": "A responsible sports betting assistant that identifies and displays only football matches with a positive expected value (EV+), helping users make informed decisions. The app is minimalist, fast, and focuses solely on presenting valuable betting opportunities without any commercial elements.",
+  "requestFramePermissions": []
+}
